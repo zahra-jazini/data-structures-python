@@ -19,3 +19,6 @@ This project implements the **Breadth-First Search (BFS)** algorithm to find the
 # Implementing Data Structures (Arrays, Stacks, Queues, Linked Lists)
 # پیاده‌سازی ساختمان داده‌های ابتدایی مانند آرایه‌ها، پشته‌ها، صف‌ها و لیست‌های پیوندی در Python. 
 # This project includes basic data structures implementation like arrays, stacks, queues, and linked lists in Python. The goal is to understand the core functionality of each data structure and how to perform basic operations like insertion, deletion, and traversal.
+
+# Binary Search Algorithm
+This project demonstrates the Binary Search Algorithm with a visual representation of each step of the search process. Binary search is a highly efficient algorithm for finding an element in a sorted array with a time complexity of O(log n). The visualization helps to understand how the search narrows down the potential search space by halving it at each step. The project uses Python and Matplotlib to display the dynamic process of binary search, with the current middle element highlighted at each step.
