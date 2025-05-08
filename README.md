@@ -16,6 +16,6 @@ This project implements the **Breadth-First Search (BFS)** algorithm to find the
 
 ## Example Output:Path: [(0, 0), (1, 0), (2, 0), (3, 0), (3, 1), (3, 2), (3, 3)]
 
-Implementing Data Structures (Arrays, Stacks, Queues, Linked Lists)
-شرح پروژه: پیاده‌سازی ساختمان داده‌های ابتدایی مانند آرایه‌ها، پشته‌ها، صف‌ها و لیست‌های پیوندی در Python.
- This project includes basic data structures implementation like arrays, stacks, queues, and linked lists in Python. The goal is to understand the core functionality of each data structure and how to perform basic operations like insertion, deletion, and traversal.
+# Implementing Data Structures (Arrays, Stacks, Queues, Linked Lists)
+# پیاده‌سازی ساختمان داده‌های ابتدایی مانند آرایه‌ها، پشته‌ها، صف‌ها و لیست‌های پیوندی در Python. 
+# This project includes basic data structures implementation like arrays, stacks, queues, and linked lists in Python. The goal is to understand the core functionality of each data structure and how to perform basic operations like insertion, deletion, and traversal.
